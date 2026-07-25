@@ -1,8 +1,6 @@
 ## SpikeNet
 [ICML 2026] SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing
 
-Zhiming Zhou, Yong He, Chaoxu Mu, Qiaoyun Wu, Ajmal Saeed Mian
-
 ## Install
 
 ```bash
