@@ -11,7 +11,11 @@ conda install pytorch==1.10.1 torchvision==0.11.2 cudatoolkit=10.2 -c pytorch -y
 # pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 pip install cycler einops h5py pyyaml==5.4.1 scikit-learn==0.24.2 scipy tqdm matplotlib==3.4.2
 pip install spikingjelly
-pip install pointnet2_ops_lib/.
+```
+
+setup python packages manually
+```shell
+pointnet2_ops_lib
 ```
 
 ## Useage
